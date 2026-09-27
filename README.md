@@ -5,7 +5,7 @@ Code to reproduce figures and key numbers from Deutloff et al. (2026).
 ## Data
 Download the required input data from Zenodo:
 
-- https://doi.org/10.5281/zenodo.19245784
+- https://doi.org/10.5281/zenodo.22921645
 
 After downloading, edit the `get_path()` function in `src/read_data.py` to point to your local data directory.
 
